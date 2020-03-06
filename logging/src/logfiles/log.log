@@ -1,0 +1,14 @@
+2020-03-06 15:38:44 INFO  App:14 - info
+2020-03-06 15:38:44 DEBUG App:15 - debug
+2020-03-06 15:38:44 WARN  App:16 - warn
+2020-03-06 15:38:44 ERROR App:17 - error
+2020-03-06 15:38:44 FATAL App:18 - fatal
+2020-03-06 15:38:44 INFO  App:21 - Simple Interest!
+2020-03-06 15:38:44 INFO  App:23 - Amount after simple interest calculation: 800000.0
+2020-03-06 15:38:44 INFO  App:26 - Compound Interest!
+2020-03-06 15:38:44 INFO  App:28 - Amount after compound interest calculation: 2.6561398887587477E98
+2020-03-06 15:38:44 INFO  App:31 - House Construction Cost Prediction!
+2020-03-06 15:38:44 INFO  App:33 - Estimated cost for house 1: 4800000
+2020-03-06 15:38:44 INFO  App:35 - Estimated cost for house 2: 6000000
+2020-03-06 15:38:44 INFO  App:37 - Estimated cost for house 3: 7200000
+2020-03-06 15:38:44 INFO  App:39 - Estimated cost for house 4: 10000000
